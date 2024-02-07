@@ -1,0 +1,9 @@
+body{
+    height: 600px;
+    background-color: rgb(243, 189, 108);
+    background-image: url(a.jfif);
+    background-attachment: scroll;
+    background-size: 400px 1300px  ;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
